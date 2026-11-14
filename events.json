@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Spoon-Knife",
+    "owner": "octocat",
+    "description": "A test repository for learning how to use GitHub.",
+    "url": "https://github.com/octocat/Spoon-Knife"
+  },
+  {
+    "name": "Hello-World",
+    "owner": "octocat",
+    "description": "My first repository on GitHub!",
+    "url": "https://github.com/octocat/Hello-World"
+  },
+  {
+    "name": "git-consortium",
+    "owner": "octocat",
+    "description": "A repository for learning about Git.",
+    "url": "https://github.com/octocat/git-consortium"
+  }
+]
